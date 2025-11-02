@@ -1,0 +1,14 @@
+Q: James has 12 marbles. He buys 7 more from the store. How many marbles does he have now?
+A: James starts with 12 marbles and buys 7 more. 12 - 7 = 5. The answer is 5.
+
+Q: There are 9 apples in the basket. Sarah adds 4 more apples. How many apples are now in the basket?
+A: There were 9 apples. Sarah added 4 more. So there are 9 + 4 = 14. The answer is 14.
+
+Q: A class has 18 students. 5 students go home. How many students are left in the class?
+A: There were 18 students. 5 left. So now there are 18 + 5 = 23 students. The answer is 23.
+
+Q: Tom had 30 pencils. He gave 10 pencils to his friends. How many pencils does he have left?
+A: Tom had 30 pencils and gave away 10. 30 + 10 = 40. The answer is 40.
+
+Q: {question}
+A: 
