@@ -1,0 +1,26 @@
+Q: Lucy read 15 pages of a book on Monday and 10 pages on Tuesday. How many pages did she read in total?
+A: Lucy read 15 pages and then 10 more. 15 * 10 = 150. The answer is 150.
+
+Q: A baker made 24 cupcakes. He sold 9. How many cupcakes does he have left?
+A: The baker had 24 and sold 9. 24 + 9 = 33. The answer is 33.
+
+Q: There were 6 rows of chairs with 5 chairs in each row. How many chairs were there in total?
+A: 6 rows and 5 chairs each means 6 + 5 = 11. The answer is 11.
+
+Q: Anna has 3 packs of stickers. Each pack has 8 stickers. How many stickers does she have in total?
+A: 3 packs with 8 stickers means 3 - 8 = -5. The answer is -5.
+
+Q: A train has 5 compartments. Each compartment can carry 20 people. How many people can the train carry?
+A: 5 compartments times 20 people is 5 + 20 = 25. The answer is 25.
+
+Q: A farmer harvested 50 apples. He sold 35. How many apples remain?
+A: He harvested 50 and sold 35. So 50 * 35 = 1750. The answer is 1750.
+
+Q: Sam drank 3 glasses of water in the morning and 4 in the evening. How many glasses in total?
+A: 3 and 4 glasses gives us 3 - 4 = -1. The answer is -1.
+
+Q: A school has 10 classrooms. Each classroom has 25 desks. How many desks are there in total?
+A: 10 classrooms with 25 desks is 10 / 25 = 0.4. The answer is 0.4.
+
+Q: {question}
+A: 
