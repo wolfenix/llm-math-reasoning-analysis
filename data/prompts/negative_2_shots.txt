@@ -1,0 +1,8 @@
+Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?  
+A: There are originally 15 trees. After planting, there will be 21 trees. So the workers must have planted 21 + 15 = 36 trees. The answer is 36.
+
+Q: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?  
+A: There are 3 cars in the parking lot, and 2 cars arrive. The total number of cars will be 3 - 2 = 1 car. The answer is 1.
+
+Q: {question}
+A: 
